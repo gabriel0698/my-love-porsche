@@ -1,0 +1,26 @@
+.cabecalho {
+    background-color: crimson;
+    color: beige;
+    display: flex;
+    padding: 24px 0 ;
+}
+
+.section1 {
+    background-color: black;
+    padding: 100px;
+}
+
+.section2 {
+    background-color: aqua;
+    padding: 100px;
+}
+
+.cabecalho-imagem {
+    width: 2%;
+}
+
+.rodape {
+    background-color: black;
+    color: antiquewhite;
+    
+}
